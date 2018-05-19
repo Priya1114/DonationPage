@@ -1,0 +1,104 @@
+#main {
+     border:solid 1px;
+     height: 700px;
+     width: 500px;
+     border-radius: 6px;
+     background: white;
+     margin: 50px 0px 0px 490px;
+}
+ #header {
+     border:solid 1px;
+     background: #424242;
+     height: 70px;
+     width: 400px;
+     color: white;
+     margin: 50px 50px 0px 50px;
+     margin-bottom: 0px;
+     border-radius : 6px;
+     text-align: center;
+     font-size: 20px;
+}
+ .triangle-down {
+     width: 0;
+     height: 0;
+     border-left: 8px solid transparent;
+     border-right: 8px solid transparent;
+     border-top: 10px solid #353535;
+     margin-left: 390px;
+     margin-top: -2px;
+}
+ #body {
+     border: solid 1px #A9A9A9;
+     height: 350px;
+     width: 400px;
+     margin: 5px 50px 0px 50px;
+     box-shadow: 1px 5px #f7f7f7;
+}
+ #slider {
+     border: solid 1px #A9A9A9;
+     height: 18px;
+     width: 400px;
+}
+ #coloredDiv {
+     background: #EF5614;
+     width: 300px;
+     height: 19px;
+     margin-top:-1px;
+}
+ .mainText {
+     margin: 20px 20px 20px 30px;
+     text-align: left;
+     font-size: 20px;
+     color: #353535;
+}
+ #footer {
+     margin: 0px 50px 50px 50px;
+     width: 440px;
+}
+ .footer-button {
+     border: solid 1px #D3D3D3;
+     height: 50px;
+     width: 180px;
+     background: #f7f7f7;
+     color: #595858;
+     border-radius: 4px;
+     text-align: center;
+     font-size: 18px;
+     box-shadow: 1px 2px #D3D3D3;
+     font-weight: bold;
+}
+ #body-div {
+     margin: 0px 0px 0px 30px;
+     width: 380px;
+     height: 100px;
+}
+ #body-input {
+     border: solid 1px #D3D3D3;
+     height: 70px;
+     width: 150px;
+     color: #595858;
+     border-radius: 4px;
+     text-align: left;
+     font-size: 20px;
+     font-weight: bold;
+     box-shadow: 1px 3px #f7f7f7 inset;
+}
+ #body-button {
+     border: solid 1px #29b229;
+     height: 70px;
+     width: 150px;
+     background: #00CA05;
+     color: white;
+     border-radius: 4px;
+     text-align: center;
+     font-size: 20px;
+}
+ #last-text {
+     font-style: italic;
+     font-size: 20px;
+     margin: 15px 0px 0px 30px;
+     color: #00BFFF;
+}
+ a {
+     text-decoration: none;
+}
